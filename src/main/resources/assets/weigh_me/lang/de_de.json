@@ -1,0 +1,15 @@
+{
+  "itemGroup.weigh_me": "Weigh Me",
+  "tooltip.weigh_me.weight": "Gewicht: %s",
+  "block.weigh_me.weight_block_0_25": "Gewicht",
+  "block.weigh_me.weight_block_0_5": "Gewicht",
+  "block.weigh_me.weight_block_1": "Gewicht",
+  "block.weigh_me.weight_block_2": "Gewicht",
+  "block.weigh_me.weight_block_4": "Gewicht",
+  "block.weigh_me.weight_block_8": "Gewicht",
+  "block.weigh_me.weight_block_16": "Gewicht",
+  "block.weigh_me.weight_block_32": "Gewicht",
+  "block.weigh_me.weight_block_64": "Gewicht",
+  "block.weigh_me.weight_block_128": "Gewicht",
+  "block.weigh_me.weight_block_256": "Gewicht"
+}

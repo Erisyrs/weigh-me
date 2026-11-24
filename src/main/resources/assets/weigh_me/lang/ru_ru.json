@@ -1,0 +1,15 @@
+{
+  "itemGroup.weigh_me": "Weigh Me",
+  "tooltip.weigh_me.weight": "Вес: %s",
+  "block.weigh_me.weight_block_0_25": "Гиря",
+  "block.weigh_me.weight_block_0_5": "Гиря",
+  "block.weigh_me.weight_block_1": "Гиря",
+  "block.weigh_me.weight_block_2": "Гиря",
+  "block.weigh_me.weight_block_4": "Гиря",
+  "block.weigh_me.weight_block_8": "Гиря",
+  "block.weigh_me.weight_block_16": "Гиря",
+  "block.weigh_me.weight_block_32": "Гиря",
+  "block.weigh_me.weight_block_64": "Гиря",
+  "block.weigh_me.weight_block_128": "Гиря",
+  "block.weigh_me.weight_block_256": "Гиря"
+}

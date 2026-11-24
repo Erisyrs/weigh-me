@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "building",
+  "ingredients": [
+    {
+      "item": "weigh_me:weight_block_64"
+    },
+    {
+      "item": "weigh_me:weight_block_64"
+    }
+  ],
+  "result": {
+    "id": "weigh_me:weight_block_128",
+    "count": 1
+  }
+}

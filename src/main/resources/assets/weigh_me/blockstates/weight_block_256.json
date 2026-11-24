@@ -1,0 +1,30 @@
+{
+  "variants": {
+    "": [
+      {
+        "model": "weigh_me:block/weight_block_256"
+      },
+      {
+        "model": "weigh_me:block/weight_block_256_1"
+      },
+      {
+        "model": "weigh_me:block/weight_block_256_2"
+      },
+      {
+        "model": "weigh_me:block/weight_block_256_3"
+      },
+      {
+        "model": "weigh_me:block/weight_block_256_4"
+      },
+      {
+        "model": "weigh_me:block/weight_block_256_5"
+      },
+      {
+        "model": "weigh_me:block/weight_block_256_6"
+      },
+      {
+        "model": "weigh_me:block/weight_block_256_7"
+      }
+    ]
+  }
+}

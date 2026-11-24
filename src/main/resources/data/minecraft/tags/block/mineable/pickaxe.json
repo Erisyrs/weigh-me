@@ -1,0 +1,16 @@
+{
+  "replace": false,
+  "values": [
+    "weigh_me:weight_block_0_25",
+    "weigh_me:weight_block_0_5",
+    "weigh_me:weight_block_1",
+    "weigh_me:weight_block_2",
+    "weigh_me:weight_block_4",
+    "weigh_me:weight_block_8",
+    "weigh_me:weight_block_16",
+    "weigh_me:weight_block_32",
+    "weigh_me:weight_block_64",
+    "weigh_me:weight_block_128",
+    "weigh_me:weight_block_256"
+  ]
+}

@@ -1,0 +1,7 @@
+{
+  "selector": "weigh_me:weight_block_64",
+  "priority": 2000,
+  "properties": {
+    "sable:mass": 64.0
+  }
+}
